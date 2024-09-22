@@ -8,6 +8,8 @@ users_db = {
     'admin': 'adminpass'
 }
 
+class User()
+
 
 # Функция для проверки логина и пароля
 def login():
